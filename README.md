@@ -1,4 +1,4 @@
-# Tetris_game 
+# Tetris Game 
 
 This is just a plain, simple tetris game.
 
